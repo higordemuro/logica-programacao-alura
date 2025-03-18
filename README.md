@@ -8,7 +8,7 @@ Esses desafios me ajudam a construir uma base sólida para, no futuro, conseguir
 
 ## Desafios - Respostas 📝
 
-### 1. Criar um contador que comece em 1 e vá até 10 usando um loop `while`. Mostrar cada número.
+### `1.` Criar um contador que comece em 1 e vá até 10 usando um loop `while`. Mostrar cada número.
 
 ```javascript
 let contador = 1;
@@ -18,7 +18,7 @@ while (contador <= 10) {
 }
 ```
 
-### 2. Criar um contador que comece em 10 e vá até 0 usando um loop `while`. Mostrar cada número.
+### `2.` Criar um contador que comece em 10 e vá até 0 usando um loop `while`. Mostrar cada número.
 
 ```javascript
 let contador = 10;
@@ -28,7 +28,7 @@ while (contador >= 0) {
 }
 ```
 
-### 3. Criar um programa de contagem regressiva. Pedir um número pro usuário e contar desse número até 0, usando um loop `while` no console do navegador.
+### `3.` Criar um programa de contagem regressiva. Pedir um número pro usuário e contar desse número até 0, usando um loop `while` no console do navegador.
 
 ```javascript
 let numeroMaximo = prompt("Digite um número para a contagem regressiva:");
@@ -39,7 +39,7 @@ while (numeroMaximo >= 0) {
 }
 ```
 
-### 4. Criar um programa de contagem progressiva. Pedir um número pro usuário e contar de 0 até esse número, usando um loop `while` no console do navegador.
+### `4.` Criar um programa de contagem progressiva. Pedir um número pro usuário e contar de 0 até esse número, usando um loop `while` no console do navegador.
 
 ```javascript
 let numeroMaximo = prompt("Digite um número para a contagem progressiva:");
